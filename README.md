@@ -1,5 +1,5 @@
 # simple-github-scapper
-simple github scapper that gives you username , id , avatar link &amp; more soon .. ! <br>
+simple github scapper that gives you username , id , avatar link &amp; , followers and following! <br>
 
 # how to use ? <br> 
 just run <code> scapper.py </code>
