@@ -3,6 +3,6 @@ simple github scapper that gives you username , id , avatar link , followers and
 <br>
 <img src="github-scapper.png">
 <hr>
-# how to use ? <br> 
+# how to use ?  
 just run <code> scapper.py </code>
 
